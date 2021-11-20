@@ -153,8 +153,8 @@ close - разрыв соединения, уничтожение сокета.
 
 | Plugin | README |
 | ------ | ------ |
-| Jenkins | [https://www.digitalocean.com/community/tutorials/how-to-install-jenkins-on-ubuntu-20-04-ru][PlDb] |
-| Nginx | [https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-20-04-ru][PlGh] |
+| Jenkins | [https://www.digitalocean.com/community/tutorials/how-to-install-jenkins-on-ubuntu-20-04-ru]|
+| Nginx | [https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-20-04-ru]|
 
 
 
